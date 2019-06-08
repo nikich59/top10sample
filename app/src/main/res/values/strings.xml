@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Top 10 sample</string>
+
+    <string name="searchButtonText">Search</string>
+    <string name="searchQueryFailureText">Query has failed</string>
+    <string name="searchQueryStringEmptyMessage">Query shall not be empty</string>
+    <string name="searchHeaderTemplate">\"%s\"</string>
+</resources>
